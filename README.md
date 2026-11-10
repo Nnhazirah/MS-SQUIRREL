@@ -9,9 +9,9 @@
 </a>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nnhazirah-squirrel&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/CAMPUS-UniKL%20MIIT-3b82f6?style=for-the-badge&logo=googleearth&logoColor=white" alt="UniKL MIIT" />
   <img src="https://img.shields.io/badge/CALLSIGN-AGENT%20ACORN%20%F0%9F%90%BF-purple?style=for-the-badge" alt="Agent Acorn" />
+  <img src="https://img.shields.io/badge/SPECIALIZATION-PURPLE%20TEAM-8b5cf6?style=for-the-badge&logo=target&logoColor=white" alt="Purple Team" />
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL%20%E2%9C%85-10b981?style=for-the-badge" alt="Status Active" />
 </p>
 
@@ -20,18 +20,18 @@
 <!-- SQUIRREL CYBER MASCOT & QUICK BIO -->
 <table>
   <tr>
-    <td width="35%" align="center">
-      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220" alt="Cyber Squirrel Mascot" style="border-radius: 12px;" />
-      <br>
+    <td width="38%" align="center">
+      <img src="squirrel.gif" width="240" alt="Cyber Squirrel Mascot" style="border-radius: 12px;" />
+      <br><br>
       <sub><b>🐿️ AGENT ACORN // PURPLE SQUIRREL</b></sub>
     </td>
-    <td width="65%">
+    <td width="62%">
       <h3>👋 Welcome to My Cyber Space!</h3>
       <p>
-        I'm <b>Nik Nurhazirah binti Nik Hussain</b>, a Cyber Security undergraduate at <b>Universiti Kuala Lumpur (UniKL MIIT)</b> with a strong passion for <b>Purple Team operations</b>.
+        I'm <b>Nik Nurhazirah binti Nik Hussain</b>, a Cyber Security undergraduate at <b>Universiti Kuala Lumpur (UniKL MIIT)</b> with a passion for <b>Purple Team operations</b>.
       </p>
       <p>
-        I love exploring how adversaries think (<b>Red Team</b>) and using that offensive knowledge to build resilient, automated defenses (<b>Blue Team</b>).
+        I love exploring how adversaries think (<b>Red Team</b>) and using that offensive telemetry to build resilient, automated defenses (<b>Blue Team</b>).
       </p>
       <ul>
         <li>🎓 <b>Degree:</b> Bachelor of Information Technology (Hons) in Cyber Security</li>
@@ -46,7 +46,7 @@
 
 ---
 
-### 🛠️ Technical Arsenal & Tools
+### 🛠️ Technical Arsenal & Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,python,bash,c,docker,git,github,vscode,wireshark,powershell" alt="Skills Icons" />
@@ -54,7 +54,7 @@
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
-│ 💜 WHAT I DO & LOVE:                                                  │
+│ 💜 CAPABILITY MATRIX:                                                  │
 ├────────────────────────────────────────────────────────────────────────┤
 │ 🔍 Vulnerability Assessment & Port Probing (Nmap, Nikto, Gobuster)     │
 │ 🕵️ OSINT & Passive Reconnaissance (theHarvester, WHOIS, Search Dorks) │
@@ -66,12 +66,17 @@
 
 ---
 
-### 📊 GitHub Activity & Cyber Stats
+### 🌐 Cyber Command Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nnhazirah&show_icons=true&theme=tokyonight&border_color=a855f7&title_color=c084fc&icon_color=06b6d4&bg_color=0a0612&hide_border=false" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nnhazirah&layout=compact&theme=tokyonight&border_color=a855f7&title_color=c084fc&bg_color=0a0612&hide_border=false" width="48%" alt="Top Languages" />
-</p>
+<div align="center">
+
+| Operational Vector | Domain & Tools | Objective & Directive |
+| :---: | :---: | :--- |
+| **🔴 Red Team (Offensive)** | `Nmap`, `Gobuster`, `Hydra` | Adversary Emulation, SYN Sweeps, Authentication Cracking |
+| **🔵 Blue Team (Defensive)** | `Sysmon`, `Firewalls`, `EDR` | Threat Detection, Behavioral Analysis, Automated Containment |
+| **🟣 Purple Team (Bridge)** | `Telemetry`, `Rule Engineering` | Collaborative Exercises, Closing Security Blindspots |
+
+</div>
 
 ---
 

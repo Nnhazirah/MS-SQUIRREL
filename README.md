@@ -83,26 +83,22 @@
 ### 💬 Let's Connect!
 
 <p align="center">
-  <a href="mailto:hazirahhussain04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hazirahhussain04%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Nnhazirah">
-    <img src="https://img.shields.io/badge/GitHub-Nnhazirah-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://www.unikl.edu.my">
-    <img src="https://img.shields.io/badge/UniKL-MIIT%20Student-blue?style=for-the-badge&logo=school&logoColor=white" alt="UniKL" />
-  </a>
+  <a href="mailto:hazirahhussain04@gmail.com"><img src="https://img.shields.io/badge/Email-hazirahhussain04%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Nnhazirah"><img src="https://img.shields.io/badge/GitHub-Nnhazirah-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.unikl.edu.my"><img src="https://img.shields.io/badge/UniKL-MIIT%20Student-2563eb?style=for-the-badge&logo=googleearth&logoColor=white" alt="UniKL" /></a>
 </p>
 
-<br>
+<p align="center">
+  <sub>🟣 <b>PURPLE TEAM OPERATIVE</b> // UNIVERSITI KUALA LUMPUR (UniKL MIIT) 🇲🇾</sub>
+</p>
 
 <p align="center">
   <i>"Think like a Red Teamer. Defend like a Blue Teamer. Connect both worlds like a Purple Teamer."</i> 🐿️💜
 </p>
 
-<!-- WAVE FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,6&height=100&section=footer" width="100%" alt="Footer Banner" />
+<br>
+
+<!-- AESTHETIC WAVE FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,6&height=110&section=footer" width="100%" alt="Footer Banner" />
 
 </div>

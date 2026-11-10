@@ -21,7 +21,7 @@
 <table>
   <tr>
     <td width="38%" align="center">
-      <img src="squirrel.gif" width="240" alt="Cyber Squirrel Mascot" style="border-radius: 12px;" />
+      <img src="https://raw.githubusercontent.com/Nnhazirah/MS-SQUIRREL/main/agent-acorn.gif" width="220" alt="Cyber Squirrel Mascot Agent Acorn" />
       <br><br>
       <sub><b>🐿️ AGENT ACORN // PURPLE SQUIRREL</b></sub>
     </td>

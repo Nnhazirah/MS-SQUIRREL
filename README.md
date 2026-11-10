@@ -38,9 +38,9 @@ Unlike traditional flat student CVs, this website is structured as a **futuristi
 | **1** | **Animated Cyber Mascot (Agent Acorn)** | Pure vector SVG character with glowing HUD visors, animated waving tail, pulsing core reactor, and reactive speech bubbles responding to interactive action buttons (*Recon, Defend, Cipher, Boost*). |
 | **2** | **Live Purple Team Combat Simulator** | Interactive simulator testing 4 real-world attack-defense scenarios (*Stealth Port Scan, SSH Hydra Brute-Force, Docker Container Breakout, Behavioral Ransomware Encryption*) displaying synchronized Red, Blue, and Purple timelines. |
 | **3** | **Interactive Network Topology Canvas** | HTML5 Canvas rendering real-time animated data packets traveling across an active network graph connecting Attacker (`192.168.100.128`), Firewall/IDS, Target Server (`192.168.100.117`), and SIEM Sensor. |
-| **4** | **Matrix Digital Rain Background** | Dynamic canvas particle stream generating descending purple/cyan hexadecimal and alphanumeric character rain with toggle controls. |
+| **4** | **Matrix Digital Rain Background** | Dynamic canvas particle stream rendering descending purple/cyan hexadecimal and alphanumeric character rain with toggle controls. |
 | **5** | **Interactive Web Shell / Terminal (CLI)** | Functional bash-like command-line interface supporting autocomplete and commands: `help`, `whoami`, `bio`, `skills`, `projects`, `ops`, `mascot`, `scan`, `flags`, `clear`, and `contact`. |
-| **6** | **Web Audio Synthesizer Engine** | Built-in zero-dependency Web Audio API synthesizer generating real-time futuristic sci-fi sound effects (beeps, clicks, alert tones, and chords) with mute toggle. |
+| **6** | **Web Audio Synthesizer Engine** | Built-in zero-dependency Web Audio API synthesizer producing real-time futuristic sci-fi sound effects (beeps, clicks, alert tones, and chords) with mute toggle. |
 | **7** | **Dynamic Skills Arsenal Matrix** | Interactive category-filtered capability cards with glowing animated percentage progress bars covering Red Team, Blue Team, and Core Infrastructure. |
 | **8** | **Live HUD Status Bar & Malaysian Clock** | Persistent top monitoring bar displaying operational status (*DEFCON PURPLE*), active station, and real-time live clock calibrated to Malaysia Standard Time (UTC+8). |
 
